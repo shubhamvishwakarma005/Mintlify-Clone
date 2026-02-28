@@ -1,0 +1,58 @@
+.hero2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* border: 2px solid rgb(0, 165, 69); */
+    color: rgb(255, 255, 255);
+    background-color: #08090A;
+}
+
+/* company logos  */
+.logos {
+    margin-top: 90px;
+    display: grid;
+    gap: 80px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-column: 2;
+    width: 900px;
+}
+
+.brand-logo-img {
+    width: 100%;
+}
+
+#x-logo {
+    width: 50px;
+    margin-left: 50px;
+}
+
+/* hero2 heading  */
+#hero2-fontOne{
+    margin-top: 180px;
+    font-size: 42px;
+    color: whitesmoke;
+}
+
+/* hero2 para  */
+
+.second-hero-font {
+    color: #b8b3b3;
+    font-size: 16px;
+}
+
+#sec-font01{
+    margin-top: 10px;
+}
+
+/* hero-cards  */
+.hero2-first-card{
+    margin-top: 20px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+

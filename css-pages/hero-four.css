@@ -1,0 +1,82 @@
+.hero4 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* border: 2px solid rgb(165, 52, 0); */
+    color: rgb(255, 255, 255);
+    background-color: #08090A;
+    padding-top: 100px;
+}
+
+#hero4-sml-title {
+    font-size: 16px;
+    color: #18E299;
+}
+
+#hero4-heading {
+    margin-top: 14px;
+    font-size: 36px;
+    color: #ffffff;
+}
+
+#hero-4small-para {
+    font-size: 16px;
+    color: #b8b3b3;
+}
+
+#hero4-sml-para-spn {
+    padding-left: 48%;
+}
+
+#hero-4-img {
+    margin-top: 20px;
+}
+
+.arrow {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    font-size: 26px;
+}
+
+.hero4-sec-heading {
+    margin-top: 200px;
+}
+
+.hero4-sec-head {
+    font-size: 36px;
+}
+
+#hero-4small-sec-para {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.hero-4-buttons {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#hero4-btn1 {
+    padding: 10px 12px;
+    font-size: 16px;
+    border-radius: 30px;
+    color: #000;
+    background-color: #fff;
+    font-weight: 400;
+}
+
+#hero4-btn2 {
+    padding: 10px 12px;
+    color: #fff;
+    background-color: #0a0a0a;
+    border-radius: 30px;
+    border: 1px solid gray;
+    font-size: 16px;
+    font-weight: 400;
+}

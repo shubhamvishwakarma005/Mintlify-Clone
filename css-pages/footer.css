@@ -1,0 +1,75 @@
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* border: 2px solid rgb(0, 159, 165); */
+    color: rgb(255, 255, 255);
+    background-color: #0f0f0f;
+    padding-top: 100px;
+}
+
+footer hr {
+    color: gray;
+}
+
+.footer-head {
+    width: 800px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    border: 0.5px solid rgba(128, 128, 128, 0.151);
+    padding: 50px 30px;
+}
+
+.min-logo {
+    width: 100px;
+}
+
+#minti-logo {
+    width: 100%;
+}
+
+.social-logo {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+.footer-infos {
+    border: 0.5px solid rgba(128, 128, 128, 0.151);
+    width: 800px;
+    padding-bottom: 100px;
+
+}
+
+.footer-infos hr {
+    color: rgba(128, 128, 128, 0.151);
+}
+
+.foot-infos {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.foot-divs {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+.foot-elem {
+    padding: 30px;
+    border: 0.5px solid rgba(128, 128, 128, 0.151);
+}
+
+.fotr-stmp {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}

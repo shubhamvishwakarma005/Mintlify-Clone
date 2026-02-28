@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+html body {
+    height: 100%;
+    width: 100%;
+}
+
+.main {
+    width: 100%;
+    background-color: black;
+}
+
+.hero {
+    width: 100%;
+    /* border: 2px solid red; */
+    background-image: url("https://www.mintlify.com/hero/bg-dark.svg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #08090A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+/* hero first button  */
+#hero-fontbtn {
+    margin-top: 100px;
+    padding: 10px 8px;
+    color: whitesmoke;
+    font-weight: 600;
+    background-color: rgba(107, 103, 103, 0.281);
+    border: none;
+    border-radius: 20px;
+}
+
+#hero-fontbtn-new{
+    padding: 5px 9px;
+    background-color: #05703b;
+    border-radius: 12px;
+}
+
+/* hero heading   */
+.hero-fontOne{
+    font-size: 62px;
+    color: whitesmoke;
+    text-wrap: break-word;
+    /* border: 1px solid greenyellow; */
+    padding-left: 50px;
+}
+
+#hero-fontOne01{
+    margin-top: 30px;
+}
+
+.hero-second-font{
+    font-size: 20px;
+    color: whitesmoke;
+    text-wrap: break-word; 
+}
+
+#hero-second-font01{
+    margin-top: 30px;
+}
+
+#hero-second-font02{
+    margin-top: 8px;
+}
+
+/* hero second button  */
+
+#hero-second-fontbtn {
+    margin-top: 30px;
+    padding: 12px 12px;
+    color: rgb(175, 166, 166);
+    background-color: rgba(107, 103, 103, 0.281);
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+}
+
+#second-font-btn-spn{
+    margin-left: 120px;
+    background-color: #fff;
+    color: black;
+    padding: 8px 12px;
+    border-radius: 20px;
+}
+
+.hero-main-img{
+    margin-top: 80px;
+    
+}
+
+#hero-main-img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+ 
+
